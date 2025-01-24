@@ -26,7 +26,7 @@
 </p>
 
 <h3>🗂 My projects:</h3>
-<table>
+<table align="center">
     <thead>
         <tr>
             <td><b>📘 Project</b></td>
