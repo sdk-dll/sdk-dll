@@ -35,14 +35,14 @@
         </tr>
     </thead>
     <tr>
-        <td><a href="https://github.com/UnDefender">🔒 <b>UnDefender</b></a></td>
-        <td><a href="https://github.com/retwitter-js">🔒 <b>retwitter-js</b></a></td>
-        <td><a href="https://github.com/SQL-Tool">🔒 <b>SQL Tool</b></a></td>
+        <td><a href="https://github.com/sdk-dll/UnDefender">🔒 <b>UnDefender</b></a></td>
+        <td><a href="https://github.com/sdk-dll/retwitter-js">🔒 <b>retwitter-js</b></a></td>
+        <td><a href="https://github.com/sdk-dll/SQL-Tool">🔒 <b>SQL Tool</b></a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/AES-String-Encryptor">🔒 <b>AES String Encryptor</b></a></td>
-        <td><a href="https://github.com/XBOX-HWID-Spoofer">🔒 <b>XBOX-HWID-Spoofer</b></a></td>
-        <td><a href="https://github.com/cs2-bhop-external">🔒 <b>CS2 Bhop External</b></a></td>
+        <td><a href="https://github.com/sdk-dll/AES-String-Encryptor">🔒 <b>AES String Encryptor</b></a></td>
+        <td><a href="https://github.com/sdk-dll/XBOX-HWID-Spoofer">🔒 <b>XBOX-HWID-Spoofer</b></a></td>
+        <td><a href="https://github.com/sdk-dll/cs2-bhop-external">🔒 <b>CS2 Bhop External</b></a></td>
     </tr>
 </table>
 
