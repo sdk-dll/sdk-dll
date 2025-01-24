@@ -27,13 +27,6 @@
 
 <h3>🗂 My projects:</h3>
 <table align="center">
-    <thead>
-        <tr>
-            <td><b>📘 Project</b></td>
-            <td><b>📘 Project</b></td>
-            <td><b>📘 Project</b></td>
-        </tr>
-    </thead>
     <tr>
         <td><a href="https://github.com/sdk-dll/UnDefender">🔒 <b>UnDefender</b></a></td>
         <td><a href="https://github.com/sdk-dll/retwitter-js">🔒 <b>retwitter-js</b></a></td>
