@@ -17,7 +17,7 @@
 <br>
 <h3>📧 You can contact me on:</h3>
 <p align="center">
-    <a href="https://telegram.org/sdk-dll">
+    <a href="https://telegram.org/sdk_dll">
         <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
     <a href="https://discord.com/channels/@me">
