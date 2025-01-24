@@ -25,6 +25,27 @@
     </a>
 </p>
 
+<h3>🗂 My projects:</h3>
+<table>
+    <thead>
+        <tr>
+            <td><b>📘 Project</b></td>
+            <td><b>📘 Project</b></td>
+            <td><b>📘 Project</b></td>
+        </tr>
+    </thead>
+    <tr>
+        <td><a href="https://github.com/UnDefender">🔒 <b>UnDefender</b></a></td>
+        <td><a href="https://github.com/retwitter-js">🔒 <b>retwitter-js</b></a></td>
+        <td><a href="https://github.com/SQL-Tool">🔒 <b>SQL Tool</b></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/AES-String-Encryptor">🔒 <b>AES String Encryptor</b></a></td>
+        <td><a href="https://github.com/XBOX-HWID-Spoofer">🔒 <b>XBOX-HWID-Spoofer</b></a></td>
+        <td><a href="https://github.com/cs2-bhop-external">🔒 <b>CS2 Bhop External</b></a></td>
+    </tr>
+</table>
+
 <br>
 <br>
 <h3>⭐ GitHub Main Stats</h3>
