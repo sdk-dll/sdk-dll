@@ -18,10 +18,10 @@
 <h3>📧 You can contact me on:</h3>
 <p align="center">
     <a href="https://t.me/sdk_dll">
-        <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/@sdk.dll-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
     <a href="https://discord.com/channels/@me">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/sdk.dev-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
 </p>
 
