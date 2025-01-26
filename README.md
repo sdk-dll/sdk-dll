@@ -50,4 +50,4 @@
 
 ```  > ⚠️ All projects are for educational purposes only```
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sdk-dll&theme=dracula)](https://github.com/sdk-dll/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sdk-dll&theme=juicyfresh&no-bg=true)](https://github.com/sdk-dll/)
