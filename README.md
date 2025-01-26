@@ -43,11 +43,13 @@
 <br>
 <h3>⭐ GitHub Main Stats</h3>
 <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sdk-dll&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="SDK-dll's GitHub stats" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sdk-dll&show_icons=true&theme=dark&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=0e1012&border_color=3d444db3" alt="SDK-dll's GitHub stats" />
 </p>
 
 ---
 
-```  > ⚠️ All projects are for educational purposes only```
+```> ⚠️ All projects are for educational purposes only```
+
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sdk-dll&theme=juicyfresh&no-bg=true)](https://github.com/sdk-dll/)
