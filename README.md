@@ -80,6 +80,12 @@ Hi all, I'm SDK! 👋. I  am developing websites, desktop programs, and simple p
             <td><img alt="Forks" src="https://img.shields.io/github/forks/sdk-dll/AES-Chat?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
             <td>A client-server chat application written in C# that uses AES encryption to ensure secure message transmission</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/sdk-dll/Special-Git-GPT">🤖 <b>SPECIAL GIT-GPT</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/sdk-dll/Special-Git-GPT?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/sdk-dll/Special-Git-GPT?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
+            <td>A tool for analyzing Git repositories using a language model. It allows users to upload a repository, analyze its contents, and receive a detailed overview of the project structure, code, potential issues, and recommendations.</td>
+        </tr>
     </tbody>
 </table>
 
